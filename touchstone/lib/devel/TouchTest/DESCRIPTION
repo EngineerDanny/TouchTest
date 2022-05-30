@@ -11,5 +11,5 @@ Encoding: UTF-8
 RemoteType: local
 RemoteUrl: /Users/newuser/Projects/RProjects/TouchTest
 NeedsCompilation: no
-Packaged: 2022-05-30 15:08:22 UTC; newuser
-Built: R 4.1.3; ; 2022-05-30 15:08:22 UTC; unix
+Packaged: 2022-05-30 16:01:13 UTC; newuser
+Built: R 4.1.3; ; 2022-05-30 16:01:13 UTC; unix
