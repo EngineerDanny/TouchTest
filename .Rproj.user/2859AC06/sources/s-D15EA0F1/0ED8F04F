@@ -1,0 +1,26 @@
+{
+    "id": "0ED8F04F",
+    "path": "~/Projects/RProjects/TouchTest/touchstone/script.R",
+    "project_path": "touchstone/script.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1653922321788.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,7",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1653923286,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653923286267,
+    "read_only": false,
+    "read_only_alternatives": []
+}
