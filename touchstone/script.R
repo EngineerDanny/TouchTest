@@ -14,7 +14,7 @@ touchstone::benchmark_run(
   random_test = function() {
     print("Hello, world!")
     # Loop from 1 to 100
-    for (i in 1:10) {
+    for (i in 1:10000) {
       print(i)
     }
   }, #<- TODO put the call you want to benchmark here
