@@ -13,6 +13,10 @@ touchstone::benchmark_run(
   # expr_before_benchmark = source("dir/data.R"), #<-- TODO OTPIONAL setup before benchmark
   random_test = function() {
     print("Hello, world!")
+    # Loop from 1 to 100
+    for (i in 1:10) {
+      print(i)
+    }
   }, #<- TODO put the call you want to benchmark here
   n = 2
 )
