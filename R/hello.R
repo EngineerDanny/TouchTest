@@ -15,4 +15,9 @@
 
 hello <- function() {
   print("Hello, world!")
+  # Loop from 1 to 100
+  for (i in 1:10) {
+    print(i)
+  }
 }
+hello()
