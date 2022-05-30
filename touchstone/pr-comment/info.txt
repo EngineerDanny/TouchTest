@@ -1,3 +1,3 @@
-This is how benchmark results would change (along with a 95% confidence interval in relative change) if cd7dd4cb6d887e4225b063597329152793e6d1ff is merged into main:
-* &nbsp;&nbsp;:ballot_box_with_check:random_test: 1.27µs -> 1.27µs [NANaN%, NANaN%]
+This is how benchmark results would change (along with a 95% confidence interval in relative change) if de964ab4e2b87904742ed073d45c02a8068cade3 is merged into main:
+* &nbsp;&nbsp;:ballot_box_with_check:random_test: 1.23µs -> 1.29µs [-11.06%, +21.07%]
 Further explanation regarding interpretation and methodology can be found in the [documentation](https://lorenzwalthert.github.io/touchstone/articles/inference.html).
